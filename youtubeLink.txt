@@ -1,6 +1,4 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
+## FORMAT: <channel name> - <Country> - <logo>
 
 Ekattor TV HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png |
 https://www.youtube.com/EkattorTelevision/live
