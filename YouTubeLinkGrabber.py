@@ -27,7 +27,7 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
         if not line.startswith('https:'):
             line = line.split('-')
             ch_name = line[0].strip()
-            grp_title = line[1].strip().title()
+            grp_title = line[1].strip()
             tvg_logo = line[2].strip()
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}", {ch_name}')
         else:
