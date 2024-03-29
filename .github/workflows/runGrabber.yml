@@ -39,8 +39,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun.sh
-          ./autorun.sh
+          chmod +x exec_grabber.sh && ./exec_grabber.sh
+          ./exec_grabber.sh
 
       - name: git add
         run: |
