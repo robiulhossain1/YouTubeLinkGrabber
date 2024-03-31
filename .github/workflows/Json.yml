@@ -39,7 +39,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x exec_grabber.sh && ./jsongrab.sh
+          chmod +x jsongrab.sh && ./jsongrab.sh
           ./jsongrab.sh
 
       - name: git add
