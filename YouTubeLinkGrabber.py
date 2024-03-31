@@ -21,7 +21,7 @@ def grab(url):
 
 with open('./youtubeLink.txt', encoding='utf-8') as f:
     for line in f:
-        line = line.strip([])
+        line = line.strip()
         if not line or line.startswith('##'):
             continue
         if not line.startswith('https:'):
