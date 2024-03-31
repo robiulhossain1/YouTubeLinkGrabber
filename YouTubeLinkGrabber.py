@@ -21,7 +21,7 @@ def grab(url):
 
 with open('./youtubeLink.txt', encoding='utf-8') as f:
     for line in f:
-        line = line.strip()
+        line = line.strip([])
         if not line or line.startswith('##'):
             continue
         if not line.startswith('https:'):
@@ -31,7 +31,7 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
             tvg_logo = line[2].strip()
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}", {ch_name}')
         else:
-            grab([line])
+            grab(line)
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
