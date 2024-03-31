@@ -1,6 +1,6 @@
 ## FORMAT: <channel name> - <Group> - <logo>
 
-Ekattor TV HD | YTLIVE GB ALT - ARAFAT | https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png |
+[Ekattor TV HD | YTLIVE GB ALT - ARAFAT | https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png |
 https://www.youtube.com/EkattorTelevision/live
 
 Gazi TV HD | YTLIVE GB ALT - ARAFAT | https://yt3.googleusercontent.com/ytc/AIdro_mEBjTkCLmUVt8i245RJKEW3Ch7gH9XVe4OGPKw=s900-c-k-c0x00ffffff-no-rj |
@@ -100,7 +100,7 @@ BCB Live | YTLIVE GB ALT - ARAFAT | https://upload.wikimedia.org/wikipedia/en/th
 https://www.youtube.com/@bcbtigercricket/live
 
 TSports Live | YTLIVE GB ALT - ARAFAT | https://www.tsports.com/img/logo/tsports-1200x630px.png |
-https://www.youtube.com/@TSportsbd/live
+https://www.youtube.com/@TSportsbd/live]
 
 KOLKATA TV | YTLIVE GB ALT - ARAFAT | https://yt3.googleusercontent.com/KKP-eCQ5hzerRSFazw-yC5ZWskKmYTf67l36aS151TrrFNmK2ko9dUty46F7ekC2OIUaVk-KIw=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@KOLKATATV/live
