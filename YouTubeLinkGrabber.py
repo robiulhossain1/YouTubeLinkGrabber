@@ -5,7 +5,7 @@ import os
 def grab(url):
     response = requests.get(url, timeout = 15).text
     if '.m3u8' not in response:
-        print("https://arafatplay.top/Video/livestream.m3u8")
+        print("https://arafatplay.top/Video/LS_2/master.m3u8")
         return
     end = response.find('.m3u8') + 5
     tuner = 100
