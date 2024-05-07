@@ -1,99 +1,99 @@
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png", Ekattor TV HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097499/ei/O_s5ZoLTKdCkkucPmMCh-Ac/ip/20.55.213.186/id/0M1we2fvvq4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW9-cBIPvU8_UPHBRAuqK30s22PpQSvWgTWM9YMNYgc8CIAL0RNK3dQvbZXbCs2r1KaMZbEn6kFjd0wChBn8zgfVL/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mEBjTkCLmUVt8i245RJKEW3Ch7gH9XVe4OGPKw=s900-c-k-c0x00ffffff-no-rj", Gazi TV HD
 https://arafatplay.top/Video/LS_2/master.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png", Somoy TV HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097500/ei/PPs5ZrLNHMyZkucPzZaIqAo/ip/20.55.213.186/id/GySsvQCMVBE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANW8x5Cdgk_velQktdBHPE-eBHVOaMLeYkkpsUq9Mxa9AiEAkWBWrdFk1-Z07dnOQf_poSOfQrTfTe0nXKTVMatP9tQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png", RTV HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097501/ei/Pfs5ZtjwC-CLkucPx46rwAY/ip/20.55.213.186/id/pHoWD51ZhtI.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgEzOuYjpto88XTmSsR43S5UfrRc7rtOHG3WCH_OZtoVMCIBtjOrUtUX_4gOHYPB0KoNXeXN4YoeQOFW0sa-rHNd4g/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png", Jamuna TV
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097501/ei/Pfs5ZsOUNvqykucP_tGKiA4/ip/20.55.213.186/id/qrbHmFDsBp8.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI_4NvQYDvyE227MHEv98ccpzyr3wGeKIjzLPLIudRvSAiEAxModLx0fObzjdu_hXOudoXiBC-254rz9H1smTc-cXAs%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png", Channel 24 HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097502/ei/Pvs5ZrfwIdyykucPsLCWyA4/ip/20.55.213.186/id/zBEgTvPCpm4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANHmTRzC8UvdzkBoAf5nfd_IAYJ3ZvOKBNd24_-N2xe8AiArlpmUlYqHNj_6TJofZ75KcPiB8bodD2IeTfPme4yMBg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/274186/logo/240x240/mobile_logo_177557001706616684.png", Ekhon TV HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097503/ei/P_s5ZqfABoqIkucP0J-z2As/ip/20.55.213.186/id/4etMOBpFCqM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM8ujXouWoqtUbIFlcpdLD9L4tpx3aGPbsRLerqxd_YQAiEA-UuflyfEkg9TjLbv7V9ZxDZ2C7xaIJE6w43SKO_ZnWo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png", Banglavision HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097503/ei/P_s5Zve_LeKWkucP0I0H/ip/20.55.213.186/id/nhPELUd3zkQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgP4LnsmQ-4A6qmD4IxhjClsuI3_z2lA6upYjNKd-eefoCIQCl7Bkbe9RS93vJb3I0kmXyeVvxVlX5ohrF4t3G9ge4oA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png", Independent HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097504/ei/QPs5ZoCrGLaHkucPlfCUgAg/ip/20.55.213.186/id/b7j6_dqGIng.17/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK1HR8wlWlTRtTP3oixMVg_ccM6O02h6BIR-FMgMh3aKAiAIMEgWli6K63kFojz21Umnl2MbJCN7v4WURIPXO7N0uA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", Channel i HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097505/ei/Qfs5ZqinBbGxkucPp7OgmAw/ip/20.55.213.186/id/8tvpdpYqSwg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJcMEf6li-aERVBiOqtTeE7lDY9zUF2-Un0NYf04oD2OAiBSeORqYec9TPs90TC7I84nFy7VewgD_kBvDNI5mNoldw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png", NTV
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097505/ei/Qfs5Zq-BOb-ekucPrP6XeA/ip/20.55.213.186/id/FvFb4InohVY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANQUT_AIH1GOkYWqy-YHO1Zx-ni_OzG-Ag8Y_4-Y70HoAiEAsmqIniv5q4cOOyMH1B211hCtfzp42Zb98SpaQ42ucmI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png", ATN News HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097506/ei/Qvs5Zv_SJMqDkucPhPm-yAs/ip/20.55.213.186/id/hjg7_QU6kEE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYIPH0KjTe0pDhg0tX1Z-9QQXUyB8-m0gXvFGVISMQUACIQD7eyjP-0y_n5c6VXeXe1eNtkaHo9KW5i6pHmnjintbeA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png", DBC News HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097507/ei/Q_s5Zrz1CamKkucP4uWR6AY/ip/20.55.213.186/id/Sh66Zurop2U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO_kDtpwIc---Sh2tUIyAzh2fy6OatJ_7H2eq4XMf1N0AiAXJ29vZY5-d_LUJzUsqWg7U-5j7L_ZdbOSgwnEKKWUnQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png?width=300", SATV HD
 https://arafatplay.top/Video/LS_2/master.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300", Nexus TV HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097508/ei/RPs5Zu2HAuqikucP4fG92Ao/ip/20.55.213.186/id/vVSZB2ByXFY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeTB05-nv5i9OCIfb6AVUBJPJhcQCAMGC9FzUTzckI1kCIC1uy8daRq3iid5GmFec-fasNlYp69gQnuIyxT9AocD6/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png", News 24
 https://arafatplay.top/Video/LS_2/master.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png", DESH TV
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097508/ei/RPs5ZqmiNcq1kucPktqb0A0/ip/20.55.213.186/id/wSrUTmQeJ24.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgM8D4cQF4k3moorAy30uuzwNwa2tD9HPVsEvDBanK2OMCIClzS5EDfP9yEz10B1psMKRZHAr_F3CW2ZuZh3d-kpzm/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/613/logo/240x240/mobile_logo_192652001655891524.png", Makkah TV
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097509/ei/Rfs5ZrK5G8CxkucPpYSn0Ao/ip/20.55.213.186/id/FOeeh-2qJC4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVRGwzzyIi9Z8fVUM7hAw44V6Q7ruhakmTpbn_um0j_ACIQDREXFvy2_wqIqEX2xbR_V03Y8cdsmQgvHygjYnjkUH7A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/610/logo/240x240/mobile_logo_677105001655891492.png", Madinah TV
 https://arafatplay.top/Video/LS_2/master.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://ptv.com.pk/user/assets/images/ptvhomelogo2023.png", PTV HOME HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097510/ei/Rvs5ZtChDpeikucPxL-x2Ag/ip/20.55.213.186/id/9_rc_dKCgpU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM3GUU3Na2_RrbYlJLTULND5cT4IF3QNGuffjKyWjmFDAiEAttIMb-0WNGBksOLDPz6F8o6PM9jtLO5vbLtz0JYuw4M%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://yt3.googleusercontent.com/ii6es9vZNnm8vfHkuaobCkiO2-bc6eY9krxHdpWe4BZ7yFt4pltv_CusbWkmc2YKay9sz2A8Mhk=s900-c-k-c0x00ffffff-no-rj", Zee 24 Ghanta
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097510/ei/Rvs5ZtGTMayGkucP1MG44AY/ip/20.55.213.186/id/idr3Cq5ZsMs.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166971/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfcMPlssQWPbr-UpdGq-yssLV7x32oL79lnIpd7RitywCIEGW8uuXKKU43qGDqsomGss_3-hfP03lH3EAvfAj5-g6/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png", Nat Geo WILD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097511/ei/R_s5ZvSdG9igkucPl_qZSA/ip/20.55.213.186/id/PLR6KdmyTho.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118567/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPZVxDnqpdbHlNLTW1zvCofD2ToCjwIuM6XtvsbqwT6kCICbEML2roR3ZLFvbb9Uabw8dMNvRxP09FDFKqVV8F4jJ/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/336/logo/240x240/mobile_logo_740569001675858107.png", Zee News
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097512/ei/SPs5ZrupCK2DkucPl5CGqA4/ip/20.55.213.186/id/tSE6TO6n9hU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51103729/txs/51103729%2C51103730%2C51113346/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVcUMFc5z_CfSzZi4RkePzSM8eJ6EehX9gNqP1oJrtHgCIFCFE9JTkvUzme7ens66eyhC8NzKiMRAkFu_dYvzMrH1/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://yt3.googleusercontent.com/vft1vwAGHNrGPveT_bXDM2R617y_EPfn2vJR52F-mUqn_d7yKtORU5m4O41htXhlOwD9gEbUwWQ=s900-c-k-c0x00ffffff-no-rj", Madani Channel Bangla HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097512/ei/SPs5ZpuOLpOokucP2emrqAQ/ip/20.55.213.186/id/WU9PpKsKIgE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN7kjnL7Mg_eKuMEkMrkG6L3rp9A0sPZ6Q9lkP98HUM4AiBFGl-OCGNTw0OjpPHZSWHAyGopmaS8CMMHITupf4lJzA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://images.toffeelive.com/images/program/234/logo/240x240/mobile_logo_496491001655891051.png", Aljazeera HD
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097513/ei/Sfs5ZvHZFNeFkucP2ZO84Ao/ip/20.55.213.186/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDSa79lFeGnFVu5vJycAegUny7md2n7rujNYIM5hfm20CIG2LEJ_p-mesNlwhVmwUfPeQro9kVxCUM1h2Dfve-IfN/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/c6/89/d6c6892f-9734-0dea-bec5-8523200b654d/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/1200x630wa.png", Geo News
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097513/ei/Sfs5ZrPdOaWkkucP7qig2AY/ip/20.55.213.186/id/1LzX7qdIHDA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLTo79E7G9oWR9l0O8Bjp0WPJKxrh_b6J9BwdTXln9BsCIQDTH6KJHGuU7JtD_ixb7hL1-T9WkHaCJ2Jsx4HmiKd-Cw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://yt3.googleusercontent.com/N8brWVICFyJ1QwN8aFc_ctuFvTOpJ2ng1HM4dZB3T5QE95GYQHipqW3Omi003UDlYULckDip=s900-c-k-c0x00ffffff-no-rj", TV9 Bangla
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097514/ei/Svs5ZtKMJfSokucP0_OPkAg/ip/20.55.213.186/id/B0gTteaUj4Q.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANNxm0kv5tWnLKGHIELIvDwToNwfQuEpEQNtA5vtLnIwAiEAvIkYBgSasIG0lwQEn_5phzVcofaqiiZWp8ES3wUquCQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg", News 18 Bangla
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097515/ei/S_s5ZsimD5GEkucP74a8oAc/ip/20.55.213.186/id/7ndqPMFp0tM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMEH8KTL2GtK9sDrZvW0B_h3rolQ2V3RVqSXD48NPlaiAiEAl3ZDLPGxJbvL1nOcbXktuC9_g9u-Je4GX2aqKaLEa8U%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://img.freepik.com/free-photo/abstract-watercolor-guitar-exploding-with-colorful-motion-generated-by-ai_188544-19725.jpg", Music LIVE
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097515/ei/S_s5ZvSROPqykucP_tGKiA4/ip/20.55.213.186/id/eu191hR_LEc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgAUtz50Owco5kMGaVoI6Q5GDpvm1UgpiWE0zDjEof4TwCIQDjavaDOz6MZEUObx2AFnF82mmyF156XsGsHB4IVQsNnQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg", 4K LIVE 1
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097516/ei/TPs5ZoLBHNuakucPg7OFSA/ip/20.55.213.186/id/1cQoYBb0Xow.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118561/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKpjhLYYxWsqPN2QKCEVUkWSenGnpdo3PIpX-qoFzAx-AiAhTylWmZgbC3_VXbJ72a84d-oXzq__Mmlgwfx2BSU-iw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg", 4K LIVE 2
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097517/ei/Tfs5Zp3HA6SrkucP_OCA2Ao/ip/20.55.213.186/id/uXNU0XgGZhs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118563/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMApwwTtIkiDv1K2QT_o7pJchCrWKo4gAHTME5OqZ-uqAiEAgZz7m-kas_XhxFaO0awDvlE2IohR8CBGA89MjdYgoWI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg", 4K LIVE 3
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097517/ei/Tfs5ZpiVKbCUkucPn7K40Ao/ip/20.55.213.186/id/tp1LAuBRDS8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118566/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKeWmJzL0CR5YNUeqC579VxRrjzFSXldb_7IiTdoRKHfAiBfVOnDu40W7w38C2LINmK-30s6xDMrnS7LXOzogppYQA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bangladesh_Cricket_Board_Logo.svg/1200px-Bangladesh_Cricket_Board_Logo.svg.png", BCB Live
 https://arafatplay.top/Video/LS_2/master.m3u8
@@ -102,7 +102,7 @@ https://arafatplay.top/Video/LS_2/master.m3u8
 https://arafatplay.top/Video/LS_2/master.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://yt3.googleusercontent.com/KKP-eCQ5hzerRSFazw-yC5ZWskKmYTf67l36aS151TrrFNmK2ko9dUty46F7ekC2OIUaVk-KIw=s900-c-k-c0x00ffffff-no-rj", KOLKATA TV
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097519/ei/T_s5ZqfZFfGbkucP9Kqp2Aw/ip/20.55.213.186/id/i6MDet-CRNU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51099271/txs/51099271%2C51099272%2C51121311%2C51121312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNdQTyW50mGfBPNOCuS0NaMQ3Wn6opAwWJS-bkiXjyQkCIBwafmSlRaK3WFloNcbD2Uf00-JLYHszz43cEqhHdkQ5/file/index.m3u8
 
 #EXTINF:-1 group-title="YTLIVE GB ALT - ARAFAT" tvg-logo="https://yt3.googleusercontent.com/lE2N0oyx39a-_TZYlkaW4A1kMySqmxvu5VolBNCv4LxqE8QrzDkx8IUtZxY27WRIdhiU-LvSIMc=s900-c-k-c0x00ffffff-no-rj", Calcutta TV
-https://arafatplay.top/Video/LS_2/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715097520/ei/UPs5Zr6kAfCzkucPl5yPgA0/ip/20.55.213.186/id/CVIXHZMRjD0.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANEYTxM384X7x-mToQY05WqCKTwElCiI_yDbCbTzOw7lAiB9tZUQTa0xLd9j7mOnl0gHaFJ2_tUqq2uA882ZHVdm9w%3D%3D/file/index.m3u8
